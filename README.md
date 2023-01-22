@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suryadev Chaudhary</h1>
 <h3 align="center">A Begineer system administrator from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
+<img align="right" alt="coding" width="800" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya318333&label=Profile%20views&color=0e75b6&style=flat" alt="surya318333" /> </p>
 
