@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="800" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya318333&label=Profile%20views&color=0e75b6&style=flat" alt="surya318333" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharysurya14&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharysurya14" /> </p>
 
 - 🔭 I’m currently studying on **HPC Cluster**
 
@@ -32,8 +32,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya318333&show_icons=true&locale=en&layout=compact" alt="surya318333" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaudharysurya14&show_icons=true&locale=en&layout=compact" alt="chaudharysurya14" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya318333&show_icons=true&locale=en" alt="surya318333" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharysurya14&show_icons=true&locale=en" alt="chaudharysurya14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya318333&" alt="surya318333" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharysurya14&" alt="chaudharysurya14" /></p>
