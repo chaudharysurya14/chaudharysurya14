@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/suryadev-c-223aa5138](www.linkedin.com/in/suryadev-c-223aa5138)
 
-- 💬 Ask me about **HPC_cluster**
+- 💬 Ask me about **LINUX**
 
 - 📫 How to reach me **saigalsainy318333@gmail.com**
 
