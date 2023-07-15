@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Suryadev Chaudhary</h1>
-<h3 align="center">A Begineer system administrator from India</h3>
+<h3 align="center">Linux server administrator from pune</h3>
 
 <img align="right" alt="coding" width="800" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharysurya14&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharysurya14" /> </p>
 
-- 🔭 I’m currently studying on **HPC Cluster**
+- 🔭 My intrest **Linux & Cyber Sicurity**
 
-- 🌱 I’m currently learning **High Performance Computing**
+- 🌱 I’m currently learning about **Cloud & DevOps Tools**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/suryadev-c-223aa5138](www.linkedin.com/in/suryadev-c-223aa5138)
+- 👨‍💻 All of my projects are available at [https://github.com/chaudharysurya14/Webgoat_devsecops1](www.linkedin.com/in/suryadev-c-223aa5138)
 
 - 💬 Ask me about **LINUX**
 
