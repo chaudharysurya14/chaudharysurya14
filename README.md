@@ -7,7 +7,7 @@
 
 - 🔭 My intrest **Linux & Cyber Sicurity**
 
-- 🌱 I’m currently learning about **Cloud & DevOps Tools**
+- 🌱 I’m currently learning about ** Linux Cloud & DevOps Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chaudharysurya14/Webgoat_devsecops1](www.linkedin.com/in/suryadev-c-223aa5138)
 
