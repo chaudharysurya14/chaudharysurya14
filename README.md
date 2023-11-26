@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning about **DevOps Tools, Linux & Cloud**
 
-- 👨‍💻 All of my projects are available at [https://github.com/chaudharysurya14/]
+- 👨‍💻 All of my projects are available at [https://github.com/chaudharysurya14/](https://www.linkedin.com/in/suryadev-c-223aa5138)
 
 - 💬 Ask me about **LINUX**
 
