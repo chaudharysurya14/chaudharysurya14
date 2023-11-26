@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm suryadev chaudhary</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<img align="right" alt="coding" width="800" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharysurya14&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharysurya14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaudharysurya14" alt="chaudharysurya14" /></a> </p>
@@ -11,13 +13,13 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://chaudharysurya14.github.io/cyber.playboy/](https://chaudharysurya14.github.io/cyber.playboy/)
+- 👨‍💻 All of my projects are available at [Portfolio profile](https://chaudharysurya14.github.io/cyber.playboy/)
 
 - 💬 Ask me about **DevOps & Linux**
 
 - 📫 How to reach me **saigalsainy318333@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/18vyy8xx-YJOSt6IKdQJkftqb4Kf8gWQeFRVCoDEZVZg/edit?usp=sharing](https://docs.google.com/document/d/18vyy8xx-YJOSt6IKdQJkftqb4Kf8gWQeFRVCoDEZVZg/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/18vyy8xx-YJOSt6IKdQJkftqb4Kf8gWQeFRVCoDEZVZg/edit?usp=sharing)
 
 - ⚡ Fun fact **All rounder**
 
