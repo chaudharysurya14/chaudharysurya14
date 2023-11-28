@@ -43,4 +43,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharysurya14&theme=tokyonight" alt="chaudharysurya14" /></p>
 
 <!--### 🔝 My Github Contributions
-![Snake animation](https://github.com/chaudharysurya14/chaudharysurya14/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/chaudharysurya14/chaudharysurya14/blob/output/github-contribution-grid-snake.svg) -->
