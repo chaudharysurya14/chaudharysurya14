@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharysurya14&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharysurya14" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaudharysurya14" alt="chaudharysurya14" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [CICD Project](https://github.com/chaudharysurya14/CICD_Portfolio_maven_project.git)
 
