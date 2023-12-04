@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [CICD Project](https://github.com/chaudharysurya14/CICD_Portfolio_maven_project.git)
+- 🔭 I’m currently working on [Netflix CICD](https://github.com/chaudharysurya14/Netflix_CICD_Project.git)
 
 - 🌱 I’m currently learning **DevOps**
 
