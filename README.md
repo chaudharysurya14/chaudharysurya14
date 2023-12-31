@@ -10,21 +10,21 @@
 
 <!-- Right side animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<!--
 - 🔭 I’m currently working on [Netflix CICD](https://github.com/chaudharysurya14/Netflix_CICD_Project.git)
-
+-->
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://chaudharysurya14.github.io/cyber.playboy/)
-
+<!--
 - 💬 Ask me about **DevOps & Linux**
-
+-->
 - 📫 How to reach me **saigalsainy318333@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/e/2PACX-1vRijOTrZCzu79XW9-VFJ9rwqqmq5M3EnNBNEHldeKCLFENSA-e9xVdnGjbIYcS8Uw/pub)
-
+<!--
 - ⚡ Fun fact **All rounder**
-
+-->
 ## 🤝 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 💟
 
 <h3 align="left">Connect with me:</h3>
