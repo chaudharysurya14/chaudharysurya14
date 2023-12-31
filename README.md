@@ -6,8 +6,9 @@
 <!-- <img align="right" alt="coding" width="1000" src="https://github.com/chaudharysurya14/chaudharysurya14/blob/main/ASCII.jpg" -->
 <img align="right" alt="coding" width="1000" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg"> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaudharysurya14" alt="chaudharysurya14" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=chaudharysurya14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!-- Right side animated GIF -->
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [Netflix CICD](https://github.com/chaudharysurya14/Netflix_CICD_Project.git)
@@ -43,8 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharysurya14&show_icons=true&locale=en&theme=tokyonight" alt="chaudharysurya14" /></p>
 
- # 📊 Coding Stats:
-
+# 📊 Coding Stats:
 ### LeetCode:
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=chaudharysurya14&theme=dark)
 
@@ -54,7 +54,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2> -->
   
-  ### 🔝🐍 My Github Contributions🐍
+### 🔝🐍 My Github Contributions🐍
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
