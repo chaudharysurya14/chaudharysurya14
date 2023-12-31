@@ -43,11 +43,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaudharysurya14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chaudharysurya14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharysurya14&show_icons=true&locale=en&theme=tokyonight" alt="chaudharysurya14" /></p>
-
+<!--
 # 📊 Coding Stats:
 ### LeetCode:
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=chaudharysurya14&theme=dark)
-
+-->
 <br>
 <!--### 🔝 My Github Contributions
 ![Snake animation](https://github.com/chaudharysurya14/chaudharysurya14/blob/output/github-contribution-grid-snake.svg) 
