@@ -22,14 +22,14 @@
 
 - 📫 How to reach me **saigalsainy318333@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/18vyy8xx-YJOSt6IKdQJkftqb4Kf8gWQeFRVCoDEZVZg/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/e/2PACX-1vRijOTrZCzu79XW9-VFJ9rwqqmq5M3EnNBNEHldeKCLFENSA-e9xVdnGjbIYcS8Uw/pub)
 
 - ⚡ Fun fact **All rounder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/@suryadevsaygal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/@suryadevsaygal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/scydevops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/scydevops/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/scydevops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/scydevops/" height="30" width="40" /></a>
 <a href="https://fb.com/https://fb.com/https://www.facebook.com/saygalraj.saygalraj.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/https://www.facebook.com/saygalraj.saygalraj.10" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/saigal_sainy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/saigal_sainy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/c/@suryadevchaudhary6657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/@suryadevchaudhary6657" height="30" width="40" /></a>
