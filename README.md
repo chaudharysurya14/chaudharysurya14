@@ -27,7 +27,7 @@
 -->
 ## 🤝 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 💟
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/@suryadevsaygal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/@suryadevsaygal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/scydevops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/scydevops/" height="30" width="40" /></a>
