@@ -13,6 +13,7 @@
 <!--
 - 🔭 I’m currently working on [Netflix CICD](https://github.com/chaudharysurya14/Netflix_CICD_Project.git)
 -->
+
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://chaudharysurya14.github.io/cyber.playboy/)
@@ -60,7 +61,7 @@
   <h2>🐍 My Contributions 🐍</h2> -->
   <br>
   
-### 🔝🐍 My Github Contributions🐍
+## 🔝🐍 My Github Contributions🐍
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
