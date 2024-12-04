@@ -22,7 +22,7 @@
 -->
 - 📫 How to reach me **saigalsainy318333@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/e/2PACX-1vRijOTrZCzu79XW9-VFJ9rwqqmq5M3EnNBNEHldeKCLFENSA-e9xVdnGjbIYcS8Uw/pub)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kIh5hsPfhFydwSepKKngPzy-TNUt0955/view?usp=drivesdk)
 <!--
 - ⚡ Fun fact **All rounder**
 -->
