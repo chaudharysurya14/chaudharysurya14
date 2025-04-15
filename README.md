@@ -22,7 +22,7 @@
 -->
 - 📫 How to reach me **saigalsainy318333@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kIh5hsPfhFydwSepKKngPzy-TNUt0955/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://github.com/chaudharysurya14/cyber.playboy/blob/master/Surya.pdf)
 <!--
 - ⚡ Fun fact **All rounder**
 -->
