@@ -1,75 +1,107 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suryadev+Chaudhary!;" />    
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suryadev+Chaudhary!;" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaudharysurya14&label=Profile%20views&color=0e75b6&style=flat" alt="chaudharysurya14" /> </p>
-<!-- <img align="right" alt="coding" width="1000" src="https://github.com/chaudharysurya14/chaudharysurya14/blob/main/ASCII.jpg" -->
-<img align="right" alt="coding" width="1000" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg"> 
-
-![](https://github-profile-trophy.vercel.app/?username=chaudharysurya14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Right side animated GIF -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<!--
-- 🔭 I’m currently working on [Netflix CICD](https://github.com/chaudharysurya14/Netflix_CICD_Project.git)
--->
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://chaudharysurya14.github.io/cyber.playboy/)
-<!--
-- 💬 Ask me about **DevOps & Linux**
--->
-- 📫 How to reach me **saigalsainy318333@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://github.com/chaudharysurya14/cyber.playboy/blob/master/Surya.pdf)
-<!--
-- ⚡ Fun fact **All rounder**
--->
-<br>
-
-## 🤝 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 💟
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/@suryadevsaygal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/@suryadevsaygal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/scydevops/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/scydevops/" height="30" width="40" /></a>
-<a href="https://fb.com/https://fb.com/https://www.facebook.com/saygalraj.saygalraj.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.com/https://www.facebook.com/saygalraj.saygalraj.10" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/saigal_sainy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/saigal_sainy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsnrrk7XcATKiO3RhTHJjPQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/@suryadevchaudhary6657" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/@saigalsainy31831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/@saigalsainy31831" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaudharysurya14&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-<br>
+---
 
-## 💻 Tools and Technologies:
+<img align="right" width="420" src="https://cdn.videoplasty.com/animation/midnight-coding-late-night-session-lofi-animation-stock-animation-51917-1280x720.jpg" />
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+# 👨‍💻 **DevOps Engineer | Linux System Administrator | Cloud & Data Center Specialist**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharysurya14&theme=tokyonight" alt="chaudharysurya14" /></p>
+A results-driven **DevOps & Linux System Administrator** experienced in automation, cloud computing, virtualization, CI/CD pipelines, security, and data-center operations. Skilled in deploying and managing production-grade systems across Linux, Windows, VMware, Docker/K8s, and AWS.  
+(Currently working at **C-DAC** — Centre for Development of Advanced Computing) :contentReference[oaicite:1]{index=1}
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaudharysurya14&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chaudharysurya14" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaudharysurya14&show_icons=true&locale=en&theme=tokyonight" alt="chaudharysurya14" /></p>
-<!--
-# 📊 Coding Stats:
-### LeetCode:
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=chaudharysurya14&theme=dark)
--->
-<br>
-<!--### 🔝 My Github Contributions
-![Snake animation](https://github.com/chaudharysurya14/chaudharysurya14/blob/output/github-contribution-grid-snake.svg) 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2> -->
-  <br>
-<!--  
-## 🔝🐍 My Github Contributions🐍
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
--->
+# 🚀 **What I Do**
 
-                                 💙 If you like my projects, Give them ⭐ and Share it with friends!
+- 🔧 **Linux Administration (RHEL / Ubuntu / CentOS)** — performance tuning, troubleshooting, hardening  
+- 🛠 **DevOps Tooling** — Jenkins, GitLab CI, SonarQube, OWASP ZAP, Nexus, ArgoCD, Spinnaker  
+- ☁ **Cloud** — AWS (EC2, S3, RDS, IAM, VPC, Lambda, CloudFormation)  
+- 📦 **Containerization & Orchestration** — Docker, Kubernetes  
+- 🏢 **Data Center Operations** — server setup, GPU configuration, virtualization, VMware ESXi & vCenter  
+- 📡 **Network & Mail Servers** — DNS, DHCP, NFS, Zimbra, SMTP, LDAP, AD  
+- 🔐 **Security** — Wazuh (SIEM/EDR), CIS Benchmark hardening, VAPT  
+- ⚙ **Infrastructure Automation** — Ansible, Terraform, Bash scripting  
 
-                                                   Made with ❤️ by Suryadev Chaudhary
+---
+
+# 🏢 **CyberSurya IT Solutions**
+### _My personal IT brand for DevOps, Cloud, Linux, and IT Infrastructure services._
+
+> *(If you want, I can also generate a custom logo for CyberSurya IT Solutions.)*
+
+---
+
+# 📌 **Featured Projects**
+
+### 🔹 **Wazuh (SIEM + EDR) Deployment**
+Centralized threat detection & compliance monitoring across infrastructure.  
+🔗 https://github.com/chaudharysurya14/wazuh
+
+### 🔹 **Netflix CICD DevSecOps Pipeline**
+Automated build → test → deploy pipeline using Jenkins, Git, Maven, SonarQube, Tomcat, Prometheus & Grafana.  
+🔗 https://github.com/chaudharysurya14/Netflix_CICD_Project
+
+### 🔹 **HPC Cluster Deployment Using XCAT**
+Automated provisioning and cluster management for High Performance Computing workloads.  
+🔗 https://github.com/chaudharysurya14/HPC-Cluster_Deployment_Using_XCAT
+
+---
+
+# 📄 **Resume & Portfolio**
+- **Resume:** [Click to View](https://github.com/chaudharysurya14/cyber.playboy/blob/master/Surya.pdf)  
+- **Portfolio Website:** https://chaudharysurya14.github.io/cyber.playboy/
+
+---
+
+# 🤝 **Let's Connect**
+
+<p align="left">
+<a href="https://twitter.com/suryadevsaygal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
+<a href="https://www.linkedin.com/in/scydevops/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+<a href="https://www.facebook.com/saygalraj.saygalraj.10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
+<a href="https://instagram.com/saigal_sainy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
+<a href="https://www.youtube.com/@suryadevchaudhary6657" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>
+<a href="https://hackerrank.com/saigalsainy31831" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
+</p>
+
+---
+
+# 🧰 **Tools & Technologies**
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+</p>
+
+---
+
+# 📊 **GitHub Stats**
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudharysurya14&theme=tokyonight" height="170"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=chaudharysurya14&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudharysurya14&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my projects, consider giving them a star!</h3>
+
+<p align="center">Made with ❤️ by <b>Suryadev Chaudhary</b></p>
