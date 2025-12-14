@@ -32,7 +32,7 @@ A results-driven **DevOps & Linux System Administrator** experienced in automati
 
 # 🏢 **CyberSurya IT Solutions**
 ### _My personal IT brand for DevOps, Cloud, Linux, and IT Infrastructure services._
-.cyber_surya_logo.png
+![CyberSurya IT Solutions Logo](cyber_surya_logo.png)
 
 ---
 
