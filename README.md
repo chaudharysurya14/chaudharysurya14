@@ -32,8 +32,7 @@ A results-driven **DevOps & Linux System Administrator** experienced in automati
 
 # 🏢 **CyberSurya IT Solutions**
 ### _My personal IT brand for DevOps, Cloud, Linux, and IT Infrastructure services._
-
-> *(If you want, I can also generate a custom logo for CyberSurya IT Solutions.)*
+.cyber_surya_logo.png
 
 ---
 
@@ -54,7 +53,7 @@ Automated provisioning and cluster management for High Performance Computing wor
 ---
 
 # 📄 **Resume & Portfolio**
-- **Resume:** [Click to View](https://github.com/chaudharysurya14/cyber.playboy/blob/master/Surya.pdf)  
+- **Resume:** [Click to View](https://chaudharysurya14.github.io/cyber.playboy/surya.pdf)  
 - **Portfolio Website:** https://chaudharysurya14.github.io/cyber.playboy/
 
 ---
